@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\bin\Debug\net6.0\Csharp-heap,stack.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\bin\Debug\net6.0\Csharp-heap,stack.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\bin\Debug\net6.0\Csharp-heap,stack.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\bin\Debug\net6.0\Csharp-heap,stack.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\bin\Debug\net6.0\Csharp-heap,stack.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\Csharp-heap,stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\Csharp-heap,stack.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\Csharp-heap,stack.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\Csharp-heap,stack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\Csharp-heap,stack.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\refint\Csharp-heap,stack.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\Csharp-heap,stack.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\Csharp-heap,stack.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Csharp- heap, stack, break,continue\Csharp-heap,stack\Csharp-heap,stack\obj\Debug\net6.0\ref\Csharp-heap,stack.dll
